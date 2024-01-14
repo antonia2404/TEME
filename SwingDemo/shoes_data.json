@@ -1,0 +1,23 @@
+[
+  {
+    "material": "leather",
+    "model": "xc-36",
+    "brand": "Prada",
+    "size": "36",
+    "color": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "material": "foam",
+    "model": "y21",
+    "brand": "Chloe",
+    "size": "38",
+    "color": [
+      "White",
+      "Blue",
+      "Violet"
+    ]
+  }
+]
